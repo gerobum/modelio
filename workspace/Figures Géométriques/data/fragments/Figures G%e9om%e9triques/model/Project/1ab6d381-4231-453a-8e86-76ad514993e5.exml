@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Figures Géométriques" version="4">
+  <OBJECT>
+    <ID name="Figures Géométriques" mc="Standard.Project" uid="1ab6d381-4231-453a-8e86-76ad514993e5"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Figures Géométriques]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Figures Géométriques" mc="Standard.DiagramSet" uid="afce73ec-fab0-4a37-a850-aa9c8512c457"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="figures géométriques" mc="Standard.Package" uid="bcfc07dd-af1b-454a-8446-ebd53f9d5e94"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Exos" version="4">
+  <OBJECT>
+    <ID name="Exos" mc="Standard.Project" uid="8f2c7746-18b3-42c8-8f4c-fe5c561ac414"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Exos]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="exos" mc="Standard.Package" uid="fb08345d-ae90-4d0b-9c2e-c4918b366a18"/>
+        <COMPID name="Package" mc="Standard.Package" uid="c5615733-15d6-44fa-8e58-8b0fb516fba3"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Exos" mc="Infrastructure.DiagramSet" uid="a236d80e-f790-43b5-9743-83798e034501"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

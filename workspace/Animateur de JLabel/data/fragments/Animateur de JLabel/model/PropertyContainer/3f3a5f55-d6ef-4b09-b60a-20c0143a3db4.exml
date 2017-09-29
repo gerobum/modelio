@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Animateur de JLabel" version="4">
+  <OBJECT>
+    <ID name="Animateur de JLabel" mc="Standard.PropertyContainer" uid="3f3a5f55-d6ef-4b09-b60a-20c0143a3db4"/>
+    <PID name="Animateur de JLabel" mc="Standard.AnalystProject" uid="68d8d1b9-44dd-47dc-a043-fe12951742de"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Animateur de JLabel]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
